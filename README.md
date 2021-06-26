@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Phoenix!](https://github.com/Phoenix557/)
 
-<img align="right" height="60" width="60" alt="" src="http://hyperz.dev/images/logo.png" />
+<img align="right" height="60" width="60" alt="" src="" />
 
 ### Glad to see you here! &nbsp; !
 
