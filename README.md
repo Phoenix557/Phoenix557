@@ -25,15 +25,6 @@ Hello! I'm Phoenix, I am the owner of RustyInfo. I work on code as a hobby and I
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-### ⚙️ &nbsp;GitHub Stats
-
-<p align="left">
-<a href="https://github.com/Phoenix557
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Phoenix557&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Phoenix557&layout=compact&langs_count=8&theme=react"/>
-</a>
-</p>
-
 ---
 
 ### ⚙️ My Resources & Tools:
