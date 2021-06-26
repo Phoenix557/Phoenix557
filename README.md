@@ -29,7 +29,7 @@ Hello! I'm Phoenix, I am the owner of RustyInfo. I work on code as a hobby and I
 
 <p align="left">
 <a href="https://github.com/Phoenix557
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joshua66553&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Phoenix557&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Phoenix557&layout=compact&langs_count=8&theme=react"/>
 </a>
 </p>
@@ -41,7 +41,7 @@ Hello! I'm Phoenix, I am the owner of RustyInfo. I work on code as a hobby and I
 - OS: Windows 10
 - Browser: Google Chrome
 - Code Editor: VSCode - The best editor out there
-- Stay Updated: [Discord](https://discord.com/jdBVWkMkNp
+- Stay Updated: [Discord](https://discord.com/jdBVWkMkNp)
 
 ---
 
