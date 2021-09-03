@@ -14,9 +14,9 @@ I am 16, and I am very inspired to work for the NYPD when I get older. I mainly 
 ### Some Highlights:
 
 - 📌 &nbsp; RustyInfo Developer
-- 🚀 &nbsp; Raid Simulator Moderator
-<!-- - 🏫 &nbsp; 
-- 🌀 &nbsp; 
+- 🚀 &nbsp; Raid Simulator Admin
+- 🏫 &nbsp; Repulsion.co.eu Admin
+<!-- - 🌀 &nbsp; 
 - 👓 &nbsp; 
 - 💻 &nbsp;  -->
 
