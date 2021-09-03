@@ -4,9 +4,14 @@
 
 ### Glad to see you here &nbsp; !
 
-Hello! I'm Phoenix, I am one of three developers for RustyInfo Discord bot. Programming is something I do in my free time, I don't take it too seriously please don't send any hate xD. 
+# About me
+Hello! I am Phoenix, as most may know me as. This GitHub account is my main, & I am one of 4 developers for the Discord bot Rusty Info. 
 
-I am 16, and I am very inspired to work for the NYPD when I get older. I mainly play Rust & R6S, if there is anything you need help with on my page or just want to reach out you can add me on Discord @Phoenix#8033.
+# What games do I play? 
+As of September 2nd 2021 I am currently into Rust. I own a variety of FPS Shooter games on my [steam profile](https://steamcommunity.com/id/PhoenixLovesYou/)
+
+# What inspires me? 
+I am inspired & heavily motivated in join the NYPD, this has been my dream job since I was a little kid. I am currently 16.
 
 <img align="right" height="215" width="325" alt="" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/coding_desk_flat_vector_ui_ux_design_illustration_motion_animation_gif2.gif" />
 
@@ -34,9 +39,8 @@ I am 16, and I am very inspired to work for the NYPD when I get older. I mainly 
 - OS: Windows 10
 - Browser: Google Chrome
 - Code Editor: VSCode
-- Stay Updated: [Discord](https://discord.com/jdBVWkMkNp)
+- Stay Updated: [Discord](https://discord.com/68mDFFVmFf)
 
-- Credit to JipyTheDev for sending this my README.md my way! Thanks. 
 ---
 
 <h3 align=center>Show some ❤️ by starring some of the repositories!</h3>
