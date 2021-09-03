@@ -2,10 +2,10 @@
 
 <img align="right" height="60" width="60" alt=""/>
 
-### Glad to see you here &nbsp; !
+### Glad to see you here! &nbsp;
 
 # About me
-Hello! I am Phoenix, as most may know me as. This GitHub account is my main, & I am one of 4 developers for the Discord bot Rusty Info. 
+Hello! I am Phoenix, as most may know me as. This GitHub account is my main, & I am one of 4 developers for the Discord bot [Rusty Info.](https://discord.gg/YHbd3WtHy5) 
 
 # What games do I play? 
 As of September 2nd 2021 I am currently into Rust. I own a variety of FPS Shooter games on my [steam profile](https://steamcommunity.com/id/PhoenixLovesYou/)
