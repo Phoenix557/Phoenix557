@@ -3,7 +3,7 @@ const JipyTheDev = require('smelly.js');
 const Phoenix557 = require('BetterThanJipy.js');
 
 let josh = smelly
-let phoenix = better than josh
+let phoenix = betterThanJosh
 
 if (josh === notSmelly) {
 console.log("He's for sure smelly")
