@@ -16,4 +16,5 @@ aysnc fuction EpicGamer() {
   console.log(chalk.red(Phoenix_Story1, Phoenix_Story2, Phoenix_Story3));
   }
   
-  module.exports = ()
+  exports.Phoenix
+ ```
