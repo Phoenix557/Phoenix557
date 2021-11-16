@@ -11,10 +11,10 @@ aysnc fuction EpicGamer() {
   
   let Phoenix_Story1 = `Hello! I am a junior in highshool, I have a dream of joining the NYPD after college. I do this coding stuff for fun! `;
   let Phoenix_Story2 = `I spend a lot of my time playing games with my friends, or working on the many projects that I have started! `;
-  let Phoenix_Story3 = `Right now I'm ${working[0]}, white practicing ${working[1]} on ${working[2]}`;
+  let Phoenix_Story3 = `Right now I'm ${working[0]}, while practicing ${working[1]} on ${working[2]}`;
   
   console.log(chalk.red(Phoenix_Story1, Phoenix_Story2, Phoenix_Story3));
   }
   
-  exports.Phoenix
+  exports.Phoenix = EpicGamer
  ```
