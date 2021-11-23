@@ -4,7 +4,7 @@ aysnc fuction EpicGamer() {
   const chalk = require('chalk');
   
   let doing = ['Gaming', 'Programming', 'Sleeping'];
-  let languages = ['JavaScript', 'HTML5', 'NodeJS', 'Markdown'];
+  let languages = ['JavaScript', 'HTML', 'CSS','NodeJS', 'Markdown'];
   let tools = ['Windows', 'linux', 'Dicord', 'Github'];
   
   let working  = await Phoenix.randomize(doing, languages, tools);
