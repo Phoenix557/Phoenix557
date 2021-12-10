@@ -1,3 +1,4 @@
+
 ```js
 aysnc fuction EpicGamer() {
   const Phoenix = require('200iq.js');
@@ -22,7 +23,9 @@ aysnc fuction EpicGamer() {
 <p align="center">Added Nov. 26 2021 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{Phoenix557}/count.svg" alt="Phoenix557" /></p>
 <br>
-
+<h2 align="center">
+My GitHub Stats! 
+</h2>
 <p align="center">
 <a href="https://github.com/Phoenix557">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Phoenix557&show_icons=true&title_color=5865F2&icon_color=5865F2&text_color=FFFFFF&bg_color=171B23&include_all_commits=true&count_private=true"/>
@@ -30,4 +33,4 @@ aysnc fuction EpicGamer() {
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Phoenix557&fire=5865F2&fire=5865F2&currStreakNum=ffffff&sideLabels=5865F2&currStreakLabel=5865F2&stroke=5865F2&sideNums=ffffff&dates=ffffff&border=ffffff&text_color=FFFFFF&background=171B23" /></a>
 </a>
 </p>
- 
+ </br>
