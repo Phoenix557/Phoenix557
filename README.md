@@ -1,4 +1,4 @@
-
+## Hey 👋 I'm Phoenix! ![](https://komarev.com/ghpvc/?username=Phoenix557&label=Views&color=blue&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=blue)](https://discord.gg/WZEyNPttpz)
 ```js
 aysnc fuction EpicGamer() {
   const Phoenix = require('200iq.js');
