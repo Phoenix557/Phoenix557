@@ -19,9 +19,6 @@ aysnc fuction EpicGamer() {
   
   exports.Phoenix = EpicGamer
  ```
-<h4 align="center">Profile Views</h4>
-<p align="center">Added Nov. 26 2021 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Phoenix557}/count.svg" alt="Phoenix557" /></p>
 <br>
 <h2 align="center">
 My GitHub Stats! 
