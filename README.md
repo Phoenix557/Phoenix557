@@ -1,24 +1,7 @@
 ## Hey 👋 I'm Phoenix! ![](https://komarev.com/ghpvc/?username=Phoenix557&label=Views&color=blue&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=blue)](https://discord.gg/WZEyNPttpz)
-```js
-aysnc fuction EpicGamer() {
-  const Phoenix = require('200iq.js');
-  const chalk = require('chalk');
-  
-  let doing = ['Gaming', 'Programming', 'Sleeping'];
-  let languages = ['JavaScript', 'HTML', 'CSS','NodeJS', 'Markdown'];
-  let tools = ['Windows', 'linux', 'Dicord', 'Github'];
-  
-  let working  = await Phoenix.randomize(doing, languages, tools);
-  
-  let Phoenix_Story1 = `Hello! I am a junior in highshool, I have a dream of joining the NYPD after college. I do this coding stuff for fun! `;
-  let Phoenix_Story2 = `I spend a lot of my time playing games with my friends, or working on the many projects that I have started! `;
-  let Phoenix_Story3 = `Right now I'm ${working[0]}, while practicing ${working[1]} on ${working[2]}`;
-  
-  console.log(chalk.red(Phoenix_Story1, Phoenix_Story2, Phoenix_Story3));
-  }
-  
-  exports.Phoenix = EpicGamer
- ```
+ 
+## Adventuring into new things 1 line of code at a time!
+
 <br>
 <h2 align="center">
 My GitHub Stats! 
