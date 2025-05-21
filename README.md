@@ -1,11 +1,5 @@
 <h2 align="center"> 👋 <strong> Hey I'm Phoenix</strong> <h2>
 
-Founder and current Managing Director for PhxServices, providing cutting edge custom solutions to users that fit their specific needs. 
-
-PhxServices is also known for their renown development team within the Discord.JS community. With team members across the globe, we focus on prefomance, and quality for our users, all for a cheap price. 
-
-Outside of being the Managing Director of PhxServices, I am also enlisted into the United States Army, fufilling my service to my country and community. 
-
 ![](https://komarev.com/ghpvc/?username=Phoenix557&label=Views&color=blue&style=flat) [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=blue)](https://discord.gg/TgfWXnJRxN)
 
 <h2 align="center"> 🗽<strong> View my GitHub Stats</strong><h2>
